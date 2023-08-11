@@ -1,0 +1,59 @@
+// misc
+
+$screens: (
+		          'min': 320px,
+		          'xs': 430px,
+		          'sm': 576px,
+		          'md': 768px,
+		          'lg': 992px,
+		          'xl': 1200px,
+          );
+
+// sizing
+
+$container-width: 1230px;
+$gap: 30px;
+$line-height-sm: 1.2;
+$line-height: 1.4;
+$line-height-lg: 1.8;
+$trs: 0.3s ease;
+
+// gray shades
+
+$gray-50: #f8f8f8; // #f9f9f9
+$gray-100: #e3e3e3; // #ededed, #e4e4e4
+
+// blue shades
+
+$blue-50: #f4f7f9;
+$blue-100: #edf1f2; // #ebeffa
+$blue-200: #d2d8e7; // #e1e8f3, #d9e1f3, #dae2e7, #dfe7ef
+$blue-250: #cdd6eb;
+$blue-300: #adb3b8;
+$blue-400: #6c7f8e; // #999ca0, #c4ced0, #6f7f8b
+$blue-500: #6e899e; // #728993
+$blue-600: #274054;
+$blue-700: #121624;
+
+// colors
+
+$bg: #fff;
+$danger-light: #faeae9;
+$danger: #f40000;
+$accent-light: #ecf5f2; // #e5f5ec
+$accent-lighter: #75b14d;
+$accent: #6ca745;
+$accent-darker: #64a13b;
+$star: #ffdd2c;
+$purple: #4c67f6;
+
+// text sizes
+
+$text-xs: 14px;
+$text-sm: 16px;
+$text-regular: 20px;
+$text-md: 24px; // 22px
+$text-lg: 36px;
+$text-xl: 48px;
+$text-xxl: 64px;
+$text-xxxl: 96px;
