@@ -42,7 +42,6 @@ ehthumbs.db
 
 # исключаем все текстовые и подобные ресурсы
 *.xml
-*.html
 *.txt
 *.log
 *.css.map
